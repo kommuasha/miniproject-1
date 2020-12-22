@@ -34,7 +34,7 @@ int main()
 	printf("\t\t=================================================\n");
 	printf("\t\t|                                               |\n");
 	printf("\t\t|        -----------------------------          |\n");
-	printf("\t\t|           TRAIN TICKET RERS. SYSTEM           |\n");
+	printf("\t\t|        METRO TRAIN TICKET RERS.SYSTEM         |\n");
 	printf("\t\t|        -----------------------------          |\n");
 	printf("\t\t|                                               |\n");
 	printf("\t\t|              BY JOGA ROSHINI AND ASHA         |\n");
